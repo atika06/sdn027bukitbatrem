@@ -20,14 +20,31 @@ Membuat website profil sekolah yang menampilkan informasi dasar sekolah, visi-mi
 - Kontak Sekolah
 
 ## 📸 Screenshots
+### Homepage
 ![Homepage](ss/home1.png)
 ![Homepage2](ss/home2.png)
 ![Homepage3](ss/home3.png)
 ![Homepage4](ss/home4.png)
-![Profil](ss/visi1.png), (ss/misi2.png), (ss/sejarah.png), (ss/struktur.png), (ss/struktur2.png)
-![Fasilitas](ss/fasilitas1.png), (ss/fasilitas2.png), (ss/fasilitas3.png), (ss/fasilitas4.png)
-![Ekstrakurikuler](ss/ekstra1.png), (ss/ekstra2.png)
-![Galeri](ss/galeri1.png), (ss/galeri2.png), (ss/galeri3.png), (ss/galeri4.png)
+### Profil Sekolah
+![Visi](ss/visi1.png)  
+![Misi](ss/misi2.png)  
+![Sejarah](ss/sejarah.png)  
+![Struktur Organisasi 1](ss/struktur.png)  
+![Struktur Organisasi 2](ss/struktur2.png)
+### Fasilitas
+![Fasilitas 1](ss/fasilitas1.png)  
+![Fasilitas 2](ss/fasilitas2.png)  
+![Fasilitas 3](ss/fasilitas3.png)  
+![Fasilitas 4](ss/fasilitas4.png)
+### Ekstrakurikuler
+![Ekstrakurikuler 1](ss/ekstra1.png)  
+![Ekstrakurikuler 2](ss/ekstra2.png)
+### Galeri
+![Galeri 1](ss/galeri1.png)  
+![Galeri 2](ss/galeri2.png)  
+![Galeri 3](ss/galeri3.png)  
+![Galeri 4](ss/galeri4.png)
+### Kontak
 ![Kontak](ss/kontak.png)
 
 ## 📁 Struktur Folder
