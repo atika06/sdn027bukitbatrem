@@ -1,0 +1,178 @@
+body{
+    background-color: #F0F2F5;
+    font-family: 'Poppins', sans-serif;
+}
+header{
+   margin-bottom: 90px;
+}
+/* icon */
+.logo{
+    margin: 0 100px;
+    float: left;
+}
+.bi-shield-shaded{
+    color: #F0F2F5;
+    font-family: 'Purple Purse', serif;
+}
+.bi-icon{
+    color: #808080; 
+    font-size :50px;
+}
+.container{
+    background-color: #FFFFFF;
+}
+
+.mt-4{
+    margin-top: 35px;
+}
+.nav li{
+    padding-right: 20px;
+}
+.dropdown-toggle{
+    color: #6c757d;
+    text-decoration: none;
+}
+.dropdown-menu li a{
+    padding-left: 6px;
+    color: black;
+    text-decoration: none;
+}
+/* hal-home */
+.col-lg-2{
+    margin-top: 35px;
+    column-gap: 112px;
+    height: 260px;
+}
+.subkat{
+    margin-top: 20px;
+}
+
+/* img{
+    width: 200px;
+    height: 225px;
+} */
+.konten1{
+    margin-top: 35px;
+}
+.konten2{
+    margin-top: 20px;
+}
+.btn-info{
+    width: 150px;
+    background-color: #2A3F54;
+}
+.cont-cate{
+    height: auto;
+}
+.pagnum{
+    float: right;
+    margin-top: 20px;
+}
+.btn-outline-success{
+    font-family: 'Poppins', sans-serif;
+    background: #2A3F54;
+}
+.btn-info{
+    font-family: 'Poppins', sans-serif;
+}
+
+.sdn{
+    margin-top: 20px;
+}
+.cont-bio{
+    margin-top: 30px;
+}
+p{
+    text-align: justify;
+}
+
+
+/* visi-misi */
+.visimisi{
+    display: flex; 
+    /* align-items: center; */
+}
+.bi-visimisi{
+    margin-right: 20px;
+    color: #5c0a0a;
+}
+
+/* footer */
+/* .footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #2A3F54;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+  } */
+
+  .bg img{
+    margin-top: -35px;
+    width: 50%;
+    height: 300px;
+    background: linear-gradient(rgba(42, 63, 84, 0.5), rgba(42, 63, 84, 0.5));
+       position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+       position: relative;
+       float: left;
+       width: 100%;
+  }
+  .image-description {
+    display: none;
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.image-container {
+    position: relative;
+}
+
+.image-container:hover .image-description {
+    display: block;
+}
+/* box */
+/* .cont-box {
+    flex-direction: column;
+    color: aqua;
+} */
+
+.row-box {
+    margin-bottom: 20px; 
+    width: 345px;
+    margin-right: 50px;
+    border-radius: 10px;
+}
+
+.col-box {
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+}
+
+.col-box img {
+    display: block;
+    margin: 0 auto; /* Membuat gambar rata tengah */
+}
+.col-box h3{
+    color: #5c0a0a;
+}
+.col-box p {
+    text-align: justify;
+}
+@media only screen and (max-width: 480px) {
+    #cat-galeri {
+        display: contents;
+      margin-bottom: 20px; /* Atur jarak antar gambar */
+    }
+    #content-ekstrakurikuler {
+        display: contents;
+    }
+  }
