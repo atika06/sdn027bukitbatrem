@@ -47,7 +47,6 @@ Membuat website profil sekolah yang menampilkan informasi dasar sekolah, visi-mi
 ### Kontak
 ![Kontak](ss/kontak.png)
 
-## 📁 Struktur Folder
 
 ## ⚠️ Catatan
 Website ini sebelumnya dihosting secara sementara, namun domain dan hosting saat ini telah nonaktif.
