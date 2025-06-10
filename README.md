@@ -20,7 +20,10 @@ Membuat website profil sekolah yang menampilkan informasi dasar sekolah, visi-mi
 - Kontak Sekolah
 
 ## 📸 Screenshots
-![Homepage](ss/home1.png), (ss/home2.png), (ss/home3.png), (ss/home4.png)
+![Homepage](ss/home1.png)
+![Homepage2](ss/home2.png)
+![Homepage3](ss/home3.png)
+![Homepage4](ss/home4.png)
 ![Profil](ss/visi1.png), (ss/misi2.png), (ss/sejarah.png), (ss/struktur.png), (ss/struktur2.png)
 ![Fasilitas](ss/fasilitas1.png), (ss/fasilitas2.png), (ss/fasilitas3.png), (ss/fasilitas4.png)
 ![Ekstrakurikuler](ss/ekstra1.png), (ss/ekstra2.png)
